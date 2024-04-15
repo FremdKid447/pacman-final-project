@@ -20,4 +20,5 @@ To run this game, you will need to have SFML on your local repository. Follow th
 2. Type <code>bin/tests</code>
 
 Created as a final project for CS 128: Introduction to Computer Science
+
 Contributors: Yousuf Mohideen, Juyoung Choi, Aniketh Chedalla
